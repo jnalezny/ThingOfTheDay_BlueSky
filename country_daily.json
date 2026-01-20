@@ -1,0 +1,1349 @@
+{
+"trailer":"",
+"days":[
+  {
+    "date": "1/1",
+    "text": "Czech Republic, as the Czech Republic after the split of Czechoslovakia in 1993. https://en.wikipedia.org/wiki/Czech_Republic #IndependenceDay #Geography #CzechRepublic",
+    "image": "Jan/czech.jpg",
+	"alternate":"map of Czech Republic",
+	"year":1993
+  },
+  {
+    "date": "1/1",
+    "text": "Haiti, Declaration of independence from France in 1804 #IndependenceDay #Geography #Haiti",
+    "image": "Jan/haiti.jpg",
+	"alternate":"map of Haiti",
+	"year":1804
+  },
+  {
+    "date": "1/1",
+    "text": "Samoa, Independence from New Zealand in 1962 https://en.wikipedia.org/wiki/Samoa #IndependenceDay #Geography #Samoa",
+    "image": "Jan/samoa.jpg",
+	"alternate":"map of Samoa",
+	"year":1962
+  },
+  {
+    "date": "1/1",
+    "text": "Sudan, Independence from Egypt and the United Kingdom in 1956. https://en.wikipedia.org/wiki/Sudan #IndependenceDay #Geography #Sudan",
+    "image": "Jan/sudan.jpg",
+	"alternate":"map of Sudan",
+	"year":1956
+  },
+  {
+    "date": "1/4",
+    "text": "Myanmar, Independence from The United Kingdom in 1948 https://en.wikipedia.org/wiki/Myanmar #IndependenceDay #Geography #Myanmar",
+    "image": "Jan/myanmar.jpg",
+	"alternate":"map of Myanmar",
+	"year":1948
+  },
+  {
+    "date": "1/11",
+    "text": "Morocco, Proclamation of Independence Day in 1944, from France and Spain. https://en.wikipedia.org/wiki/Morocco #IndependenceDay #Geography #Morocco",
+    "image": "Jan/morocco.jpg",
+	"alternate":"map of Morocco",
+	"year":1944
+  },
+  {
+    "date": "1/22",
+    "text": "Ukraine, Unification of Ukraine in 1919 https://en.wikipedia.org/wiki/Ukraine #UnificationDay #Geography #Ukraine",
+    "image": "Jan/ukraine.jpg",
+	"alternate":"map of Ukraine",
+	"year":1919
+  },
+  {
+    "date": "1/26",
+    "text": "Australia, Australia Day commemorates the arrival of the First Fleet of British ships. https://en.wikipedia.org/wiki/Australia #Australia",
+    "image": "Jan/australia.jpg",
+	"alternate":"map of Australia",
+	"year":1788
+  },
+  {
+    "date": "1/31",
+    "text": "Nauru, Independence from Australia, New Zealand, and the United Kingdom in 1968 https://en.wikipedia.org/wiki/Nauru #Nauru #IndependenceDay #Geography",
+    "image": "Jan/Nauru.jpg",
+	"alternate":"map of Nauru",
+	"year":1968
+  },
+  {
+    "date": "2/4",
+    "text": "Sri Lanka, Independence from the United Kingdom in 1948. https://en.wikipedia.org/wiki/Sri_Lanka #CountryOfTheDay #IndependenceDay",
+    "image": "Feb/sri_lanka.jpg",
+	"alternate":"map of Sri Lanka",
+	"year":1948
+  },
+  {
+    "date": "2/7",
+    "text": "Grenada, Independence from the United Kingdom in 1974. https://en.wikipedia.org/wiki/Grenada #Grenada #IndependenceDay #Geography",
+    "image": "Feb/grenada.jpg",
+	"alternate":"map of Grenada",
+	"year":1974
+  },
+  {
+    "date": "2/12",
+    "text": "Chile, Independence from Spain in 1818. https://en.wikipedia.org/wiki/Chile #Chile #IndependenceDay #Geography ",
+    "image": "Feb/chile.jpg",
+	"alternate":"map of Chile",
+	"year":1818
+  },
+  {
+    "date": "2/13",
+    "text": "Tibet, Independence from Manchu's Qing Dynasty in 1913. Currently administered by China.#Tibet #IndependenceDay #Geography https://en.wikipedia.org/wiki/Tibet",
+    "image": "Feb/tibet.jpg",
+	"alternate":"map of Tibet",
+	"year":1913
+  },
+  {
+    "date": "2/15",
+    "text": "Serbia, The beginning of the first Serbian Uprising in 1804. #Serbia #IndependenceDay #Geography https://en.wikipedia.org/wiki/Serbia #Serbia #IndependenceDay #Geography",
+    "image": "Feb/serbia.jpg",
+	"alternate":"map of Serbia",
+	"year":1804
+  },
+  {
+    "date": "2/16",
+    "text": "Lithuania, Independence from Russia and Germany in 1918. https://en.wikipedia.org/wiki/Lithuania #Lithuania #IndependenceDay #Geography",
+    "image": "Feb/lithuania.jpg",
+	"alternate":"map of Lithuania",
+	"year":1918
+  },
+  {
+    "date": "2/17",
+    "text": "Kosovo, Independence from Serbia in 2008. https://en.wikipedia.org/wiki/Kosovo #Kosovo #IndependenceDay #Geography",
+    "image": "Feb/kosovo.jpg",
+	"alternate":"map of Kosovo",
+	"year":2008
+  },
+  {
+    "date": "2/18",
+    "text": "The Gambia, Independence from the United Kingdom in 1965. https://en.wikipedia.org/wiki/The_Gambia #Gambia #IndependenceDay #Geography",
+    "image": "Feb/gambia.jpg",
+	"alternate":"map of The Gambia",
+	"year":1965
+  },
+  {
+    "date": "2/22",
+    "text": "Saint Lucia, Independence from the United Kingdom in 1979. https://en.wikipedia.org/wiki/Saint_Lucia #StLucia #IndependenceDay #Geography",
+    "image": "Feb/stlucia.jpg",
+	"alternate":"map of Saint Lucia",
+	"year":1979
+  },
+  {
+    "date": "2/23",
+    "text": "Brunei, Independence from the United Kingdom in 1984. https://en.wikipedia.org/wiki/Brunei #NationalDay #Geography #Brunei",
+    "image": "Feb/Brunei.jpg",
+	"alternate":"map of Brunei",
+	"year":1984
+  },
+  {
+    "date": "2/24",
+    "text": "Estonia, Independence from Russia in 1918. https://en.wikipedia.org/wiki/Estonia #Estonia #IndependenceDay #Geography",
+    "image": "Feb/estonia.jpg",
+	"alternate":"map of Estonia",
+	"year":1918
+  },
+  {
+    "date": "2/25",
+    "text": "Kuwait, Independence from the United Kingdom in 1961. https://en.wikipedia.org/wiki/Kuwait #kuwait #IndependenceDay #Geography ",
+    "image": "Feb/kuwait.jpg",
+	"alternate":"map of Kuwait",
+	"year":1961
+  },
+  {
+    "date": "2/27",
+    "text": "Dominican Republic, Independence from Spain in 1821, Independence redeclared from Haiti in 1844. https://en.wikipedia.org/wiki/Dominican_Republic #IndependenceDay #Geography ",
+    "image": "Feb/dominicanrepublic.jpg",
+	"alternate":"map of the Dominical Republic",
+	"year":1844
+  },
+  {
+	"date":"3/1",
+	"text":"Bosnia and Herzegovina, Independence from Yugoslavia in 1992 https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina #IndependenceDay #Geography #BosniaandHerzegovina",
+	"image":"Mar/bandh.jpg",
+	"alternate":"Map of Bosnia and Herzegovina",
+	"year":1992
+  },
+  {
+	"date":"3/1",
+	"text":"South Korea. Korean Declaration of Independence in 1919, or Samiljeol. https://en.wikipedia.org/wiki/South_Korea #geography #Samiljeol #SouthKorea",
+	"image":"Mar/skorea.jpg",
+	"alternate":"map of South Korea",
+	"year":1919
+  },
+  {
+	"date":"3/6",
+	"text":"Ghana. Independence from the United Kingdom in 1957 https://en.wikipedia.org/wiki/Ghana #geography #IndependenceDay #Ghana",
+	"image":"Mar/ghana.jpg",
+	"alternate":"map of Ghana",
+	"year":1957
+  },
+  {
+	"date":"3/11",
+	"text":"Lithuania. Act of the re-establishment of the State of Lithuania, independence from the Soviet Union in 1990 https://en.wikipedia.org/wiki/Lithuania #geography #IndependenceDay #Lithuania",
+	"image":"Mar/lithuania.jpg",
+	"alternate":"map of Lithuania",
+	"year":1990
+  },
+  {
+	"date":"3/12",
+	"text":"Mauritius. Independence from the United Kingdom in 1968. https://en.wikipedia.org/wiki/Mauritius #geography #IndependenceDay #Mauritius",
+	"image":"Mar/mauritius.jpg",
+	"alternate":"map of Mauritius",
+	"year":1968
+  },  
+  {
+	"date":"3/20",
+	"text":"Tunisia. Independence from France in 1956 https://en.wikipedia.org/wiki/Tunisia #geography #IndependenceDay #Tunisia",
+	"image":"Mar/tunisia.jpg",
+	"alternate":"map of Tunisia",
+	"year":1956
+  },  
+  {
+	"date":"3/21",
+	"text":"Namibia. Independence from South Africa in 1990 https://en.wikipedia.org/wiki/Namibia #geography #IndependenceDay #Namibia",
+	"image":"Mar/namibia.jpg",
+	"alternate":"map of Namibia",
+	"year":1990
+  },  
+  {
+	"date":"3/25",
+	"text":"Greece. Declaration of independence from the Ottoman Empire in 1821. https://en.wikipedia.org/wiki/Greece #geography #IndependenceDay #Greece",
+	"image":"Mar/greece.jpg",
+	"alternate":"map of Greece",
+	"year":1821
+  }, 
+  {
+	"date":"3/26",
+	"text":"Bangladesh. Declaration of independence from the Pakistan in 1971. https://en.wikipedia.org/wiki/Bangladesh #geography #IndependenceDay #Bangladesh",
+	"image":"Mar/bangladesh.jpg",
+	"alternate":"map of Bangladesh",
+	"year":1971
+  },
+  {
+	"date":"4/1",
+	"text":"Cyprus. National Day, April 1 attacks that started the Cyprus Emergency, Independence from U.K. in 1955. https://en.wikipedia.org/wiki/Cyprus #geography #NationalDay #Cyprus",
+	"image":"April/cyprus.jpg",
+	"alternate":"map of Cyprus",
+	"year":1955
+  },
+  {
+	"date":"4/1",
+	"text":"Iran. After holding a referendum, Iran officially became an Islamic Republic in April 1979. https://en.wikipedia.org/wiki/Iran #geography #Iran",
+	"image":"April/iran.jpg",
+	"alternate":"map of Iran",
+	"year":1979
+  },
+  {
+	"date":"4/4",
+	"text":"Senegal. Independence from France in 1960. https://en.wikipedia.org/wiki/Senegal #geography #IndependenceDay #Senegal",
+	"image":"April/senegal.jpg",
+	"alternate":"map of Senegal",
+	"year":1960
+  },
+  {
+	"date":"4/9",
+	"text":"Georgia. Day of National Unity, 1991 from Soviet Union. https://en.wikipedia.org/wiki/Georgia_(country) #geography #IndependenceDay #Georgia",
+	"image":"April/georgia.jpg",
+	"alternate":"map of Georgia",
+	"year":1991
+  },
+  {
+	"date":"4/17",
+	"text":"Syria. Evacuation Day, End of the French mandate of Syria in 1946. https://en.wikipedia.org/wiki/Syria #geography #EvacuationDay #Syria",
+	"image":"April/syria.jpg",
+	"alternate":"map of Syria",
+	"year":1946
+  },
+  {
+	"date":"4/18",
+	"text":"Zimbabwe. Effective date of the Lancaster House Agreement 1980, from United Kingdom. https://en.wikipedia.org/wiki/Zimbabwe #geography #IndependenceDay #Zimbabwe",
+	"image":"April/zimbabwe.jpg",
+	"alternate":"map of Zimbabwe",
+	"year":1980
+  },
+  {
+	"date":"4/24",
+	"text":"Ireland. Proclamation of the Irish Republic commencing the Easter Rising, 1916 from United Kingdom. https://en.wikipedia.org/wiki/Republic_of_Ireland #geography #IndependenceDay #Ireland",
+	"image":"April/ireland.jpg",
+	"alternate":"map of Ireland",
+	"year":1916
+  },
+  {
+	"date":"4/27",
+	"text":"Sierra Leone.  From the United Kingdom, 1961, https://en.wikipedia.org/wiki/Sierra_Leone #geography #IndependenceDay #SierraLeone",
+	"image":"April/sierraleone.jpg",
+	"alternate":"map of Sierra Leone",
+	"year":1961
+  },
+  {
+	"date":"4/27",
+	"text":"Togo.  From France, 1960. https://en.wikipedia.org/wiki/Togo #geography #IndependenceDay #Togo",
+	"image":"April/togo.jpg",
+	"alternate":"map of Togo",
+	"year":1960
+  },
+  {
+	"date":"5/4",
+	"text":"Latvia.  From the Soviet Union, 1990. The restoration of the Independence of the Republic of Latvia https://en.wikipedia.org/wiki/Latvia #geography #IndependenceDay #Latvia",
+	"image":"May/latvia.jpg",
+	"alternate":"map of Latvia",
+	"year":1990
+  },
+  {
+	"date":"5/9",
+	"text":"Romania.  From the Ottoman Empire, 1877. Romania's declaration of its independence, while the ultimately victorious independence war against the Ottoman Empire in 1877–1878 alongside Russia, was just beginning. https://en.wikipedia.org/wiki/Romania #geography #IndependenceDay #Romania",
+	"image":"May/romania.jpg",
+	"alternate":"map of Romania",
+	"year":1877
+  },
+   {
+	"date":"5/14",
+	"text":"Israel. Yom Ha'atzmaut lyar 5, on or between April 15 and May 15, depending on the Hebrew calendar . https://en.wikipedia.org/wiki/Israel #geography #IndependenceDay #Israel",
+	"image":"May/israel.jpg",
+	"alternate":"map of Israel",
+	"year":1948
+  }, 
+    {
+	"date":"5/15",
+	"text":"Paraguay. Independence Day, from the Spanish empire in 1811 . https://en.wikipedia.org/wiki/Paraguay #geography #IndependenceDay #Paraguay",
+	"image":"May/paraguay.jpg",
+	"alternate":"map of Paraquay",
+	"year":1811
+  },  
+      {
+	"date":"5/17",
+	"text":"Norway. Constitution Day. From Denmark, in 1814 https://en.wikipedia.org/wiki/Norway #geography #IndependenceDay #Norway",
+	"image":"May/norway.jpg",
+	"alternate":"map of Norway",
+	"year":1814
+  },  
+      {
+	"date":"5/20",
+	"text":"East Timor. Independence Day, Portugal in 2002. https://en.wikipedia.org/wiki/East_Timor #geography #IndependenceDay #EastTimor",
+	"image":"May/easttimor.jpg",
+	"alternate":"map of East Timor",
+	"year":2002
+  },  
+      {
+	"date":"5/21",
+	"text":"Montenegro. Independence Day, Serbia and Montenegro in 2006. 2006 Montenegrin independence referendum https://en.wikipedia.org/wiki/Montenegro #geography #IndependenceDay #Montenegro",
+	"image":"May/montenegro.jpg",
+	"alternate":"map of Montenegro",
+	"year":2006
+  },  
+  {
+    "date": "5/20",
+    "text": "Cameroon, Independence from France and United Kingdom in 1960 https://en.wikipedia.org/wiki/Cameroon #IndependenceDay #Geography #Cameroon",
+    "image": "May/cameroon.jpg",
+	"alternate":"map of Camaroon",
+	"year":1960
+  },
+      {
+	"date":"5/24",
+	"text":"Equador. Independence Day, from the Spanish empire in 1822. Battle of Pichincha https://en.wikipedia.org/wiki/Equador #geography #IndependenceDay #Equador",
+	"image":"May/equador.jpg",
+	"alternate":"map of Equador",
+	"year":1822
+  },  
+      {
+	"date":"5/24",
+	"text":"Eritrea. Independence Day, from Ethiopia in 1991. https://en.wikipedia.org/wiki/Eritrea #geography #IndependenceDay #Eritrea",
+	"image":"May/eritrea.jpg",
+	"alternate":"map of Eritrea",
+	"year":1991
+  },  
+      {
+	"date":"5/25",
+	"text":"Jordan. Independence Day, from the United Kingdom in 1946. https://en.wikipedia.org/wiki/Jordan #geography #IndependenceDay #Jordan",
+	"image":"May/jordan.jpg",
+	"alternate":"map of Jordan",
+	"year":1946
+  },  
+      {
+	"date":"5/26",
+	"text":"Georgia. Independence Day, from the Russian empire in 1918. https://en.wikipedia.org/wiki/Georgia_(country) #geography #IndependenceDay #Georgia",
+	"image":"May/georgia.jpg",
+	"alternate":"map of Georgia",
+	"year":1918
+  },  
+      {
+	"date":"5/26",
+	"text":"Guyana. Independence Day, from the United Kingdom in 1966. https://en.wikipedia.org/wiki/Guyana #geography #IndependenceDay #Guyana",
+	"image":"May/guyana.jpg",
+	"alternate":"map of Guyana",
+	"year":1966
+  },  
+      {
+	"date":"5/28",
+	"text":"Armenia. Independence Day, from the Russian Empire in 1918. https://en.wikipedia.org/wiki/Armenia #geography #IndependenceDay #Armenia",
+	"image":"May/armenia.jpg",
+	"alternate":"map of Armenia",
+	"year":1918
+  },  
+      {
+	"date":"5/28",
+	"text":"Azerbaijan. Independence Day, from the Russian Empire in 1918. https://en.wikipedia.org/wiki/Azerbaijan #geography #IndependenceDay #Azerbaijan",
+	"image":"May/azerbaijan.jpg",
+	"alternate":"map of Azerbaijan",
+	"year":1918
+  },  
+  {
+	"date":"5/30",
+	"text":"Croatia. Statehood Day, from SFR Yugoslavia in 1990. https://en.wikipedia.org/wiki/Croatia #geography #StatehoodDay #Croatia",
+	"image":"May/croatia.jpg",
+	"alternate":"map of Croatia",
+	"year":1990
+  },  
+  {
+	"date":"6/1",
+	"text":"Samoa. Independence from New Zealand in 1962. https://en.wikipedia.org/wiki/Samoa #geography #IndependenceDay #Samoa",
+	"image":"June/samoa.jpg",
+	"alternate":"map of Samoa",
+	"year":1962
+  }, 
+  {
+	"date":"6/4",
+	"text":"Tonga. Independence from United Kingdom in 1970. Termination of protected-state status in 1970 https://en.wikipedia.org/wiki/Tonga #geography #IndependenceDay #Tonga",
+	"image":"June/tonga.jpg",
+	"alternate":"map of Tonga",
+	"year":1970
+  }, 
+    {
+	"date":"6/6",
+	"text":"Sweden. Celebrates the election of King Gustav Vasa in 1523 and the new constitutions in 1809 and 1974. The election of King Gustav Vasa was the de facto end of the Kalmar Union and has been seen as a formal declaration of independence. https://en.wikipedia.org/wiki/Sweden #geography #NationalDay #Sweden",
+	"image":"June/sweden.jpg",
+	"alternate":"map of Sweden",
+	"year":1523
+  }, 
+      {
+	"date":"6/7",
+	"text":"Norway. Independence from Sweden in 1905. Union Dissolution and Independence Day  https://en.wikipedia.org/wiki/Norway #geography #IndependenceDay #Norway",
+	"image":"June/norway.jpg",
+	"alternate":"map of Norway",
+	"year":1905
+  }, 
+    {
+	"date":"6/12",
+	"text":"Philippines. Independence from Spain in 1898. (Araw ng Kalayaan or Araw ng Kasarinlan) https://en.wikipedia.org/wiki/Philippines #geography #IndependenceDay #Philippines",
+	"image":"June/philippines.jpg",
+	"alternate":"map of Philippines",
+	"year":1898
+  }, 
+    {
+	"date":"6/17",
+	"text":"Iceland. Independence from Denmark in 1944. Effective date of the dissolution of the Danish–Icelandic Act of Union following the 1944 Icelandic constitutional referendum https://en.wikipedia.org/wiki/Iceland #geography #IndependenceDay #Iceland",
+	"image":"June/iceland.jpg",
+	"alternate":"map of Iceland",
+	"year":1944
+  }, 
+    {
+	"date":"6/25",
+	"text":"Mozambique. Independence from Portugal in 1975. https://en.wikipedia.org/wiki/Mozambique #geography #IndependenceDay #Mozambique",
+	"image":"June/mozambique.jpg",
+	"alternate":"map of Mozambique",
+	"year":1975
+  }, 
+    {
+	"date":"6/26",
+	"text":"Madagascar. Independence from France in 1960. https://en.wikipedia.org/wiki/Madagascar #geography #IndependenceDay #Madagascar",
+	"image":"June/madagascar.jpg",
+	"alternate":"map of Madagascar",
+	"year":1960
+  }, 
+    {
+	"date":"6/27",
+	"text":"Djibouti. Independence from France in 1977. https://en.wikipedia.org/wiki/Djibouti #geography #IndependenceDay #Djibouti",
+	"image":"June/djibouti.jpg",
+	"alternate":"map of Djibouti",
+	"year":1977
+  }, 
+    {
+	"date":"6/29",
+	"text":"Seychelles. Independence from United Kingdom in 1976. https://en.wikipedia.org/wiki/Seychelles #geography #IndependenceDay #Seychelles",
+	"image":"June/seychelles.jpg",
+	"alternate":"map of Seychelles",
+	"year":1976
+  }, 
+    {
+	"date":"6/30",
+	"text":"Democratic Republic of the Congo. Independence from Belgium in 1960. Effective date of the Treaty of Friendship, Assistance and Co-operation between Belgium and the Congo concluded on June 29, 1960 https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo #geography #IndependenceDay #Congo",
+	"image":"June/congo.jpg",
+	"alternate":"map of the Democratic Republic of the Congo",
+	"year":1960
+  }, 
+  {
+	"date":"7/1",
+	"text":"Canada. Canada Day commemorates the establishment of the Dominion of Canada in 1867 https://en.wikipedia.org/wiki/Canada #geography #CanadaDay #Canada",
+	"image":"July/canada.jpg",
+	"alternate":"map of Canada",
+	"year":1867
+  }, 
+  {
+	"date":"7/1",
+	"text":"Burundi. Independence from Belgium in 1962. Effective date of the United Nations General Assembly Resolution 1746 terminating the Ruanda-Urundi Trusteeship https://en.wikipedia.org/wiki/Burundi #geography #IndependenceDay #Burundi",
+	"image":"July/burundi.jpg",
+	"alternate":"map of burundi",
+	"year":1962
+  }, 
+  {
+	"date":"7/1",
+	"text":"Rwanda. Independence from Belgium in 1962. Effective date of the United Nations General Assembly Resolution 1746 terminating the Ruanda-Urundi Trusteeship https://en.wikipedia.org/wiki/Rwanda #geography #IndependenceDay #Rwanda",
+	"image":"July/rwanda.jpg",
+	"alternate":"map of Rwanda",
+	"year":1962
+  }, 
+  {
+	"date":"7/1",
+	"text":"Somalia. Independence from Italy and UK in 1960.  Union of the Trust Territory of Somalia (former Italian Somaliland) and British Somaliland to form the Somali Republic https://en.wikipedia.org/wiki/Somalia #geography #IndependenceDay #Somalia",
+	"image":"July/somalia.jpg",
+	"alternate":"map of Somalia",
+	"year":1960
+  }, 
+    {
+	"date":"7/3",
+	"text":"Belarus. Liberation of Minsk from Nazi Germany in 1944. https://en.wikipedia.org/wiki/Belarus #geography #IndependenceDay #Belarus",
+	"image":"July/belarus.jpg",
+	"alternate":"map of Belorus",
+	"year":1944
+  }, 
+    {
+	"date":"7/4",
+	"text":"United States. Independence from Great Britain in 1776. The Declaration of Independence.  https://en.wikipedia.org/wiki/United_States #geography #IndependenceDay #UnitedStates #America",
+	"image":"July/unitedstates.jpg",
+	"alternate":"map of The United States",
+	"year":1776
+  }, 
+    {
+	"date":"7/5",
+	"text":"Algeria. Independence from France in 1962. France officially recognized independent Algeria on July 3, but the Independence Day is celebrated on July 5, the day of the fall of Algiers in 1830 https://en.wikipedia.org/wiki/Algeria #geography #IndependenceDay #Algeria",
+	"image":"July/algeria.jpg",
+	"alternate":"map of Algeria",
+	"year":1962
+  }, 
+    {
+	"date":"7/5",
+	"text":"Cape Verde. Independence from Portugal in 1975. Effective date of the Agreement Between Portugal and Partido Africano para a Independência da Guiné e Cabo Verde (PAIGC) signed on December 18, 1974 https://en.wikipedia.org/wiki/Cape_Verde #geography #IndependenceDay #CapeVerde",
+	"image":"July/capeverde.jpg",
+	"alternate":"map of Cape Verde",
+	"year":1975
+  }, 
+    {
+	"date":"7/5",
+	"text":"Venezuela. Independence from Spain in 1811. https://en.wikipedia.org/wiki/Venezuela #geography #IndependenceDay #Venezuela",
+	"image":"July/venezuela.jpg",
+	"alternate":"map of Venezuela",
+	"year":1811
+  }, 
+    {
+	"date":"7/6",
+	"text":"Comoros. Independence from france in 1975. Unilateral declaration of independence by the Chamber of Deputies of Comoros following the 1974 Comorian independence referendum #geography #IndependenceDay #Comoros",
+	"image":"July/comoros.jpg",
+	"alternate":"map of Comoros",
+	"year":1975
+  }, 
+    {
+	"date":"7/6",
+	"text":"Malawi. Independence from the United Kingdom in 1964. https://en.wikipedia.org/wiki/Malawi #geography #IndependenceDay #Malawi",
+	"image":"July/malawi.jpg",
+	"alternate":"map of Malawi",
+	"year":1964
+  }, 
+   {
+	"date":"7/7",
+	"text":"Solomon Islands. Independence from the United Kingdom in 1978. https://en.wikipedia.org/wiki/Solomon_Islands #geography #IndependenceDay #Solomon_Islands",
+	"image":"July/solomon.jpg",
+	"alternate":"map of The Solomon Islands",
+	"year":1978
+  },
+   {
+	"date":"7/9",
+	"text":"Argentina. Independence from the Spain in 1816. https://en.wikipedia.org/wiki/Argentina #geography #IndependenceDay #Argentina",
+	"image":"July/argentina.jpg",
+	"alternate":"map of Argentina",
+	"year":1816
+  }, 
+   {
+	"date":"7/9",
+	"text":"South Sudan. Independence from the Sudan in 2011. https://en.wikipedia.org/wiki/South_Sudan #geography #IndependenceDay #South_Sudan",
+	"image":"July/ssudan.jpg",
+	"alternate":"map of South Sudan",
+	"year":2011
+  },
+   {
+	"date":"7/10",
+	"text":"The Bahamas. Independence from the United Kingdom in 1973. https://en.wikipedia.org/wiki/The_Bahamas #geography #IndependenceDay #The_Bahamas",
+	"image":"July/bahamas.jpg",
+	"alternate":"map of Bahamas",
+	"year":1973
+  },   
+   {
+	"date":"7/12",
+	"text":"Kiribati. Independence from the Portugal in 1979. https://en.wikipedia.org/wiki/Kiribati #geography #IndependenceDay #Kiribati",
+	"image":"July/kiribati.jpg",
+	"alternate":"map of Kiribati",
+	"year":1979
+  }, 
+   {
+	"date":"7/12",
+	"text":"São Tomé and Príncipe. Independence from the United Kingdom in 1975. https://en.wikipedia.org/wiki/São_Tomé_and_Príncipe #geography #IndependenceDay #São_Tomé_and_Príncipe",
+	"image":"July/saotome.jpg",
+	"alternate":"map of São Tomé and Príncipe",
+	"year":1975
+  }, 
+     {
+	"date":"7/14",
+	"text":"France. Bastille Day, celebrating the anniversary of storming the Bastille in 1789. https://en.wikipedia.org/wiki/France #geography #BastilleDay #France",
+	"image":"July/france.jpg",
+	"alternate":"map of France",
+	"year":1789
+  }, 
+   {
+	"date":"7/17",
+	"text":"Slovakia. Independence from Czechoslavakia in 1992. https://en.wikipedia.org/wiki/Slovakia #geography #IndependenceDay #Slovakia",
+	"image":"July/slovakia.jpg",
+	"alternate":"map of Slovakia",
+	"year":1992
+  }, 
+   {
+	"date":"7/20",
+	"text":"Colombia. Independence from the Spanish Empire in 1810. https://en.wikipedia.org/wiki/Colombia #geography #IndependenceDay #Colombia",
+	"image":"July/columbia.jpg",
+	"alternate":"map of Colombia",
+	"year":1810
+  }, 
+   {
+	"date":"7/21",
+	"text":"Belgium. Ascension of Leopold of Saxe-Coburg-Saalfeld to the throne in 1831. https://en.wikipedia.org/wiki/Belgium #geography #NationalDay #Belgium",
+	"image":"July/belgium.jpg",
+	"alternate":"map of Belgium",
+	"year":1831
+  }, 
+   {
+	"date":"7/26",
+	"text":"Liberia. Liberian Declaration of Independence in 1847. https://en.wikipedia.org/wiki/Liberia #geography #IndependenceDay #Liberia",
+	"image":"July/liberia.jpg",
+	"alternate":"map of Liberia",
+	"year":1847
+  }, 
+   {
+	"date":"7/26",
+	"text":"Maldives. Independence from the United Kingdom in 1965. https://en.wikipedia.org/wiki/Maldives #geography #IndependenceDay #Maldives",
+	"image":"July/maldives.jpg",
+	"alternate":"map of Maldives",
+	"year":1965
+  }, 
+   {
+	"date":"7/26",
+	"text":"The Netherlands. Independence from the Spanish Empire in 1581 as the Dutch Republic. https://en.wikipedia.org/wiki/Netherlands #geography #IndependenceDay #Netherlands",
+	"image":"July/netherlands.jpg",
+	"alternate":"map of The Netherlands",
+	"year":1581
+  }, 
+   {
+	"date":"7/28",
+	"text":"Peru. Independence from the Spanish Empire in 1821. https://en.wikipedia.org/wiki/Peru #geography #FiestasPatrias #Peru",
+	"image":"July/peru.jpg",
+	"alternate":"map of Peru",
+	"year":1821
+  },
+   {
+	"date":"8/1",
+	"text":"Benin. Independence from the France in 1960. https://en.wikipedia.org/wiki/Benin #geography #IndependenceDay #Benin",
+	"image":"August/benin.jpg",
+	"alternate":"map of Benin",
+	"year":1960
+   },
+   {
+	"date":"8/1",
+	"text":"Switzerland. Alliance against the Holy Roman Empire in 1291. https://en.wikipedia.org/wiki/Switzerland #geography #SwissNationalDay #Switzerland",
+	"image":"August/switzerland.jpg",
+	"alternate":"map of Switzerland",
+	"year":1291
+   },
+   {
+	"date":"8/3",
+	"text":"Niger. Independence from France in 1960. https://en.wikipedia.org/wiki/Niger #geography #IndependenceDay #Niger",
+	"image":"August/niger.jpg",
+	"alternate":"map of Niger",
+	"year":1960
+   },
+   {
+	"date":"8/5",
+	"text":"Burkina Faso. Independence from France in 1960. https://en.wikipedia.org/wiki/Burkina_Faso #geography #IndependenceDay #BurkinaFaso",
+	"image":"August/burkina.jpg",
+	"alternate":"map of Burkina",
+	"year":1960
+   },
+   {
+	"date":"8/6",
+	"text":"Bolivia. Independence from the Spanish Empire in 1825. https://en.wikipedia.org/wiki/Bolivia #geography #IndependenceDay #Bolivia",
+	"image":"August/bolivia.jpg",
+	"alternate":"map of Bolivia",
+	"year":1825
+   },
+   {
+	"date":"8/6",
+	"text":"Jamaica. Independence from the United Kingdom in 1962. https://en.wikipedia.org/wiki/Jamaica #geography #IndependenceDay #Jamaica",
+	"image":"August/jamaica.jpg",
+	"alternate":"map of Jamaica",
+	"year":1962
+   },
+   {
+	"date":"8/7",
+	"text":"Ivory Coast. Independence from France in 1960. https://en.wikipedia.org/wiki/Ivory_Coast #geography #IndependenceDay #IvoryCoast",
+	"image":"August/ivory.jpg",
+	"alternate":"map of The Ivory Coast",
+	"year":1960
+   },
+   {
+	"date":"8/9",
+	"text":"Singapore. Independence from the Malaysia in 1965. https://en.wikipedia.org/wiki/Singapore #geography #NationalDay #Singapore",
+	"image":"August/singapore.jpg",
+	"alternate":"map of Singapore",
+	"year":1965
+   },
+   {
+	"date":"8/10",
+	"text":"Ecuador. Independence from the Spanish Empire in 1809. Independence failed with the excecution of all the conspirators in 1810. https://en.wikipedia.org/wiki/Ecuador #geography #IndependenceDay #Ecuador",
+	"image":"August/ecuador.jpg",
+	"alternate":"map of Ecuador",
+	"year":1809
+   },
+   {
+	"date":"8/11",
+	"text":"Chad. Independence from France in 1960. https://en.wikipedia.org/wiki/Chad #geography #IndependenceDay #Chad",
+	"image":"August/chad.jpg",
+	"alternate":"map of Chad",
+	"year":1960
+   },
+   {
+	"date":"8/13",
+	"text":"Central African Republic. Independence from France in 1960. https://en.wikipedia.org/wiki/Central_African_Republic #geography #IndependenceDay #CentralAfricanRepublic",
+	"image":"August/car.jpg",
+	"alternate":"map of Central African Republic",
+	"year":1960
+   },
+   {
+	"date":"8/14",
+	"text":"Pakistan. Independence from the United Kingdom in 1947. https://en.wikipedia.org/wiki/Pakistan #geography #IndependenceDay #Pakistan #Youm-e-Azadi",
+	"image":"August/pakistan.jpg",
+	"alternate":"map of Pakistan",
+	"year":1947
+   },
+   {
+	"date":"8/15",
+	"text":"Republic of the Congo. Independence from France in 1960. https://en.wikipedia.org/wiki/Republic_of_the_Congo #geography #IndependenceDay #RepublicOfTheCongo",
+	"image":"August/rotc.jpg",
+	"alternate":"map of Republic of the Congo",
+	"year":1960
+   },
+   {
+	"date":"8/15",
+	"text":"India. Independence from the United Kingdom in 1947. https://en.wikipedia.org/wiki/India #geography #IndependenceDay #India",
+	"image":"August/india.jpg",
+	"alternate":"map of India",
+	"year":1947
+   },
+   {
+	"date":"8/15",
+	"text":"North Korea. Independence from Empire of Japan 1945. https://en.wikipedia.org/wiki/North_Korea #geography #Chogukhaebangŭinal #NorthKorea",
+	"image":"August/nkorea.jpg",
+	"alternate":"map of north Korea",
+	"year":1945
+   },
+   {
+	"date":"8/15",
+	"text":"South Korea. Independence from the Empire of Japan 1945. https://en.wikipedia.org/wiki/South_Korea #geography #Gwangbokjeol #SouthKorea",
+	"image":"August/skorea.jpg",
+	"alternate":"map of South Korea",
+	"year":1945
+   },
+
+   {
+	"date":"8/16",
+	"text":"Gabon. Independence from France in 1960. https://en.wikipedia.org/wiki/Gabon #geography #IndependenceDay #Gabon",
+	"image":"August/gabon.jpg",
+	"alternate":"map of Gabon",
+	"year":1960
+   },
+   {
+	"date":"8/17",
+	"text":"Indonesia. Independence from the Netherlands in 1945. https://en.wikipedia.org/wiki/Indonesia #geography #IndependenceDay #HariKemerdekaan #Indonesia",
+	"image":"August/indonesia.jpg",
+	"alternate":"map of Indonesia",
+	"year":1945
+   },
+   {
+	"date":"8/19",
+	"text":"Afghanistan. Independence from the United Kingdom in 1919. https://en.wikipedia.org/wiki/Afghanistan #geography #IndependenceDay #Afghanistan",
+	"image":"August/afghanistan.jpg",
+	"alternate":"map of Afganistan",
+	"year":1919
+   },
+   {
+	"date":"8/20",
+	"text":"Estonia. Day of Restoration of Independence from the Soviet Union in 1991. https://en.wikipedia.org/wiki/Estonia #geography #IndependenceDay #Estonia",
+	"image":"August/estonia.jpg",
+	"alternate":"map of Estonia",
+	"year":1991
+   },
+   {
+	"date":"8/24",
+	"text":"Ukraine. Independence from the Soviet Union in 1991. https://en.wikipedia.org/wiki/Ukraine #geography #IndependenceDay #Ukraine",
+	"image":"August/ukraine.jpg",
+	"alternate":"map of Ukraine",
+	"year":1991
+   },
+   {
+	"date":"8/25",
+	"text":"Uruguay. Independence from the United Provinces of the Rio de la Plata in 1825. https://en.wikipedia.org/wiki/Uruguay #geography #IndependenceDay #Uruguay",
+	"image":"August/uruguay.jpg",
+	"alternate":"map of Uraguay",
+	"year":1925
+   },
+   {
+	"date":"8/27",
+	"text":"Moldova. Independence from the Soviet Union in 1991. https://en.wikipedia.org/wiki/Moldova #geography #IndependenceDay #Moldova",
+	"image":"August/moldova.jpg",
+	"alternate":"map of Moldova",
+	"year":1991
+   },
+   {
+	"date":"8/31",
+	"text":"Kyrgyzstan. Independence from the Soviet Union in 1991. https://en.wikipedia.org/wiki/Kyrgyzstan #geography #IndependenceDay #Kyrgyzstan",
+	"image":"August/kyrgyz.jpg",
+	"alternate":"map of Kyrgyzstan",
+	"year":1991
+   },
+   {
+	"date":"8/31",
+	"text":"Malaysia. Independence from the United Kingdom in 1957. Hari Merdeka https://en.wikipedia.org/wiki/Malaysia #geography #IndependenceDay #HariMerdeka #Malaysia",
+	"image":"August/malaysia.jpg",
+	"alternate":"map of Malaysia",
+	"year":1957
+   },
+   {
+	"date":"8/31",
+	"text":"Trinidad and Tobago. Independence from the United Kingdom in 1962. https://en.wikipedia.org/wiki/Trinidad_and_Tobago #geography #IndependenceDay #TrinidadAndTobago",
+	"image":"August/tandt.jpg",
+	"alternate":"map of Trinidad and Tobago",
+	"year":1962
+   },
+   {
+	"date":"9/1",
+	"text":"Uzbekistan. Independence from the Soviet Union in 1991. https://en.wikipedia.org/wiki/Uzbekistan #geography #IndependenceDay #Uzbekistan",
+	"image":"Sept/uzbekistan.jpg",
+	"alternate":"map of Uzbekistan",
+	"year":1991
+   },
+   {
+	"date":"9/2",
+	"text":"Vietnam. Independence from France and Japan in 1945. https://en.wikipedia.org/wiki/Vietnam #geography #IndependenceDay #Vietnam",
+	"image":"Sept/vietnam.jpg",
+	"alternate":"map of Vietnam",
+	"year":1945
+   },
+      {
+	"date":"9/6",
+	"text":"Eswatini. Independence from the United Kingdom in 1968. https://en.wikipedia.org/wiki/Eswatini #geography #Somhlolo #Eswatini",
+	"image":"Sept/eswatini.jpg",
+	"alternate":"map of Eswatini",
+	"year":1968
+   },
+      {
+	"date":"9/7",
+	"text":"Brazil. Independence from Portugal in 1822. https://en.wikipedia.org/wiki/Brazil #geography #IndependenceDay #Brazil",
+	"image":"Sept/brazil.jpg",
+	"alternate":"map of Brazil",
+	"year":1822
+   },
+      {
+	"date":"9/8",
+	"text":"North Macedonia. Independence from SFR Yugoslavia in 1991. https://en.wikipedia.org/wiki/North_Macedonia #geography #IndependenceDay #NorthMacedonia",
+	"image":"Sept/macedonia.jpg",
+	"alternate":"map of Macedonia",
+	"year":1991
+   },
+   {
+	"date":"9/9",
+	"text":"Tajikistan. Independence from the Soviet Union in 1991. https://en.wikipedia.org/wiki/Tajikistan #geography #IndependenceDay #Tajikistan",
+	"image":"Sept/tajikistan.jpg",
+	"alternate":"map of Tajikistan",
+	"year":1991
+   },  
+   {
+	"date":"9/15",
+	"text":"Costa Rica. Independence from Spain in 1821. https://en.wikipedia.org/wiki/Costa_Rica #geography #IndependenceDay #CostaRica",
+	"image":"Sept/costa.jpg",
+	"alternate":"map of Costa Rica",
+	"year":1821
+   },  
+   {
+	"date":"9/15",
+	"text":"El Salvador. Independence from the Spain in 1821. https://en.wikipedia.org/wiki/El_Salvador #geography #IndependenceDay #ElSalvador",
+	"image":"Sept/salvador.jpg",
+	"alternate":"map of El Salvador",
+	"year":1821
+   },  
+   {
+	"date":"9/15",
+	"text":"Guatemala. Independence from Spain in 1821. https://en.wikipedia.org/wiki/Guatemala #geography #IndependenceDay #Guatemala",
+	"image":"Sept/guatemala.jpg",
+	"alternate":"map of Guatemala",
+	"year":1821
+   },  
+   {
+	"date":"9/15",
+	"text":"Honduras. Independence from Spain in 1821. https://en.wikipedia.org/wiki/Honduras #geography #IndependenceDay #Honduras",
+	"image":"Sept/honduras.jpg",
+	"alternate":"map of Honduras",
+	"year":1821
+   },  
+   {
+	"date":"9/15",
+	"text":"Nicaragua. Independence from Spain in 1821. https://en.wikipedia.org/wiki/Nicaragua #geography #IndependenceDay #Nicaragua",
+	"image":"Sept/nicaragua.jpg",
+	"alternate":"map of Nicaragua",
+	"year":1821
+   },  
+   {
+	"date":"9/16",
+	"text":"Mexico. Start of the Mexican War of Independence, Grito del Dolores. https://en.wikipedia.org/wiki/Mexico #geography #GritoDelDolores #Mexico",
+	"image":"Sept/mexico.jpg",
+	"alternate":"map of Mexico",
+	"year":1810
+   },  
+   {
+	"date":"9/16",
+	"text":"Papua New Guinea. From Australia in 1975. https://en.wikipedia.org/wiki/Papua_new_guinea #geography #Independence #PapuaNewGuinea",
+	"image":"Sept/png.jpg",
+	"alternate":"map of Papua New Guinea",
+	"year":1975
+   },  
+    {
+	"date":"9/18",
+	"text":"Chile. Independence from Spain in 1810, part of Festas Patrias. https://en.wikipedia.org/wiki/Chile #geography #IndependenceDay #Chile",
+	"image":"Sept/chile.jpg",
+	"alternate":"map of Chile",
+	"year":1810
+   },
+   {
+	"date":"9/19",
+	"text":"Saint Kitts and Nevis. Independence from the United Kingdom in 1983. https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis #geography #IndependenceDay #StKittsAndNevis",
+	"image":"Sept/kitts.jpg",
+	"alternate":"map of Saint Kitts and Nevis",
+	"year":1983
+   },  
+   {
+	"date":"9/21",
+	"text":"Armenia. Independence from the Soviet Union in 1991. https://en.wikipedia.org/wiki/Armenia #geography #IndependenceDay #Armenia",
+	"image":"Sept/armenia.jpg",
+	"alternate":"map of Armenia",
+	"year":1991
+   },
+   {
+	"date":"9/21",
+	"text":"Belize. Independence from England in 1981. https://en.wikipedia.org/wiki/Belize #geography #IndependenceDay #Belize",
+	"image":"Sept/belize.jpg",
+	"alternate":"map of Belize",
+	"year":1981
+   },
+   {
+	"date":"9/21",
+	"text":"Malta. Independence from the United Kingdom in 1964. https://en.wikipedia.org/wiki/Malta #geography #IndependenceDay #Malta",
+	"image":"Sept/malta.jpg",
+	"alternate":"map of Malta",
+	"year":1964
+   },
+   {
+	"date":"9/22",
+	"text":"Bulgaria. Independence from the Ottoman Empire in 1908. https://en.wikipedia.org/wiki/Bulgaria #geography #IndependenceDay #Bulgaria",
+	"image":"Sept/bulgaria.jpg",
+	"alternate":"map of Bulgaria",
+	"year":1908
+   },
+   {
+	"date":"9/22",
+	"text":"Mali. Independence from France in 1960. https://en.wikipedia.org/wiki/Mali #geography #IndependenceDay #Mali",
+	"image":"Sept/mali.jpg",
+	"alternate":"map of Mali",
+	"year":1960
+   },
+   {
+	"date":"9/24",
+	"text":"Guinea-Bissau. Independence from Portugal in 1973. https://en.wikipedia.org/wiki/Guinea-Bissau #geography #IndependenceDay #GuineaBissau",
+	"image":"Sept/guinea-bissau.jpg",
+	"alternate":"map of Guinea-Bissau",
+	"year":1973
+   }, 
+   {
+	"date":"9/27",
+	"text":"Turkmenistan. Independence from the Soviet Union in 1991. https://en.wikipedia.org/wiki/Turkmenistan #geography #IndependenceDay #Turkmenistan",
+	"image":"Sept/turkmenistan.jpg",
+	"alternate":"map of Turkmenistan",
+	"year":1991
+   },
+   {
+	"date":"9/30",
+	"text":"Botswana. Independence from the United Kingdom in 1966. https://en.wikipedia.org/wiki/Botswana #geography #IndependenceDay #Botswana",
+	"image":"Sept/botswana.jpg",
+	"alternate":"map of Botswana",
+	"year":1966
+   },  
+   {
+	"date":"10/1",
+	"text":"Cyprus. Independence from the United Kingdom in 1960. Effective date of the Agreements was August 16, 1960, but the holiday was moved to October 1 to avoid summer heat and tourist season https://en.wikipedia.org/wiki/Cyprus #geography #IndependenceDay #Cyprus",
+	"image":"Oct/cyprus.jpg",
+	"alternate":"map of Cyprus",
+	"year":1960
+   },  
+   {
+	"date":"10/1",
+	"text":"Nigeria. Independence from the United Kingdom in 1960. https://en.wikipedia.org/wiki/Nigeria #geography #IndependenceDay #Nigeria",
+	"image":"Oct/nigeria.jpg",
+	"alternate":"map of Nigeria",
+	"year":1960
+   },  
+   {
+	"date":"10/1",
+	"text":"Tuvalu. Independence from the United Kingdom in 1978.   https://en.wikipedia.org/wiki/Tuvalu #geography #IndependenceDay #tuvalu",
+	"image":"Oct/tuvalu.jpg",
+	"alternate":"map of Tuvalu",
+	"year":1978
+   },  
+   {
+	"date":"10/2",
+	"text":"Guinea. Independence from France in 1958.  https://en.wikipedia.org/wiki/Guinea #geography #IndependenceDay #guinea",
+	"image":"Oct/guinea.jpg",
+	"alternate":"map of Guinea",
+	"year":1958
+   }, 
+   {
+	"date":"10/3",
+	"text":"Iraq. Independence from the United Kingdom in 1932.  https://en.wikipedia.org/wiki/Iraq #geography #IndependenceDay #iraq",
+	"image":"Oct/iraq.jpg",
+	"alternate":"map of Iraq",
+	"year":1932
+   },            
+   {
+	"date":"10/4",
+	"text":"Lesotho. Independence from France in 1958.  https://en.wikipedia.org/wiki/Lesotho #geography #IndependenceDay #lesotho",
+	"image":"Oct/lesotho.jpg",
+	"alternate":"map of Lesotho",
+	"year":1958
+   },
+   {
+	"date":"10/9",
+	"text":"Uganda. Independence from the United Kingdom in 1962.  https://en.wikipedia.org/wiki/Uganda #geography #IndependenceDay #uganda",
+	"image":"Oct/uganda.jpg",
+	"alternate":"map of Uganda",
+	"year":1962
+   },            
+   {
+	"date":"10/10",
+	"text":"Cuba. Commencement of the Wars of Independence from the Spanish Empire in 1868.  https://en.wikipedia.org/wiki/Cuba #geography #GritodoYara #cuba",
+	"image":"Oct/cuba.jpg",
+	"alternate":"map of Cuba",
+	"year":1868
+   },            
+      {
+	"date":"10/10",
+	"text":"Fiji. Independence from the United Kingdom in 1970.  https://en.wikipedia.org/wiki/Fiji #geography #FijiDay #fiji",
+	"image":"Oct/fiji.jpg",
+	"alternate":"map of Fiji",
+	"year":1970
+   },            
+      {
+	"date":"10/12",
+	"text":"Equatorial Guinea. Independence from Spain in 1970.  https://en.wikipedia.org/wiki/Equatorial_Guinea #geography #IndependenceDay #equatoriaguinea",
+	"image":"Oct/eguinea.jpg",
+	"alternate":"map of Equatorial Guinea",
+	"year":1970
+   },            
+      {
+	"date":"10/18",
+	"text":"Azerbaijan. Independence from the Soviet Union in 1991.  https://en.wikipedia.org/wiki/Azerbaijan #geography #IndependenceDay #azerbaijan",
+	"image":"Oct/azerbaijan.jpg",
+	"alternate":"map of Azerbaijan",
+	"year":1991
+   },            
+      {
+	"date":"10/23",
+	"text":"Hungary. Opening of its previously-restricted border with Austria in 1989, and establishment as a democratic parliamentary republic. https://en.wikipedia.org/wiki/Hungary #geography #IndependenceDay #hungary",
+	"image":"Oct/hungary.jpg",
+	"alternate":"map of Hungary",
+	"year":1989
+   },            
+      {
+	"date":"10/24",
+	"text":"Zambia. Independence from the United Kingdom in 1964.  https://en.wikipedia.org/wiki/Zambia #geography #IndependenceDay #zambia",
+	"image":"Oct/zambia.jpg",
+	"alternate":"map of Zambia",
+	"year":1964
+   },            
+    {
+	"date":"10/26",
+	"text":"Austria. Independence from the Allied occupying powers in 1955.  https://en.wikipedia.org/wiki/Austria #geography #NationalDay #austria",
+	"image":"Oct/austria.jpg",
+	"alternate":"map of Austria",
+	"year":1955
+   },            
+      {
+	"date":"10/27",
+	"text":"Saint Vincent and the Grenadines. Independence from the United Kingdom in 1979.  https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines #geography #IndependenceDay #SaintVincentandtheGrenadines",
+	"image":"Oct/st_vin.jpg",
+	"alternate":"map of Saint Vincent and the Grenadines",
+	"year":1979
+   },            
+   {
+	"date":"10/29",
+	"text":"Czech Republic. Independence from Austria-Hungary in 1918.  https://en.wikipedia.org/wiki/Czech_Republic #geography #IndependenceDay #czechrepublic",
+	"image":"Oct/czech.jpg",
+	"alternate":"map of Czech Republic",
+	"year":1918
+   },            
+   {
+	"date":"11/1",
+	"text":"Antigua and Barbuda. Independence from the United Kingdom in 1981.  https://en.wikipedia.org/wiki/Antigua_and_Barbuda #geography #IndependenceDay #AntiguaandBarbuda",
+	"image":"Nov/aandb.jpg",
+	"alternate":"map of Antigua and Barbuda",
+	"year":1981
+   },            
+   {
+	"date":"11/3",
+	"text":"Dominica. Independence from the United Kingdom in 1978.  https://en.wikipedia.org/wiki/Dominica #geography #IndependenceDay #Dominica",
+	"image":"Nov/dominica.jpg",
+	"alternate":"map of Dominica",
+	"year":1978
+   },            
+   {
+	"date":"11/3",
+	"text":"Micronesia. Independence from the United States in 1986.  https://en.wikipedia.org/wiki/Micronesia #geography #IndependenceDay #micronesia",
+	"image":"Nov/micronesia.jpg",
+	"alternate":"map of Micronesia",
+	"year":1986
+   },            
+   {
+	"date":"11/3",
+	"text":"Panama. Independence from Columbia in 1903.  https://en.wikipedia.org/wiki/Pnama #geography #IndependenceDay #panama",
+	"image":"Nov/panama.jpg",
+	"alternate":"map of Panama",
+	"year":1903
+   },            
+   {
+	"date":"11/9",
+	"text":"Cambodia. Independence from France in 1953.  https://en.wikipedia.org/wiki/Cambodia #geography #IndependenceDay #cambodia",
+	"image":"Nov/cambodia.jpg",
+	"alternate":"map of Cambodia",
+	"year":1953
+   },            
+   {
+	"date":"11/11",
+	"text":"Angola. Independence from Purtugal in 1975.  https://en.wikipedia.org/wiki/Angola #geography #IndependenceDay #angola",
+	"image":"Nov/angola.jpg",
+	"alternate":"map of Angola",
+	"year":1975
+   },            
+   {
+	"date":"11/11",
+	"text":"Poland. Independence from Russian and Germany in 1918.  https://en.wikipedia.org/wiki/Poland #geography #IndependenceDay #poland",
+	"image":"Nov/poland.jpg",
+	"alternate":"map of Poland",
+	"year":1918
+   },            
+   {
+	"date":"11/15",
+	"text":"Palistine. Independence from Israel in 1988.  https://en.wikipedia.org/wiki/Palistine #geography #NationalDay #palistine",
+	"image":"Nov/palistine.jpg",
+	"alternate":"map of Palistine",
+	"year":1988
+   },            
+   {
+	"date":"11/18",
+	"text":"Latvia. Proclamation Day of the Republic of Latvia from Russia and Germany in 1918.  https://en.wikipedia.org/wiki/Latvia #geography #IndependenceDay #latvia",
+	"image":"Nov/latvia.jpg",
+	"alternate":"map of Latvia",
+	"year":1918
+   },            
+   {
+	"date":"11/18",
+	"text":"Morocco. Independence from France and Spain in 1955.  https://en.wikipedia.org/wiki/Morocco #geography #IndependenceDay #morocco",
+	"image":"Nov/morocco.jpg",
+	"alternate":"map of Morocco",
+	"year":1955
+   },            
+   {
+	"date":"11/18",
+	"text":"Oman. Independence from Portugal in 1650.  https://en.wikipedia.org/wiki/Oman #geography #NationalDay #oman",
+	"image":"Nov/oman.jpg",
+	"alternate":"map of Oman",
+	"year":1650
+   },
+   {
+	"date":"11/22",
+	"text":"Lebanon. Independence from France and Spain in 1955.  https://en.wikipedia.org/wiki/Lebanon #geography #IndependenceDay #Lebanon",
+	"image":"Nov/lebanon.jpg",
+	"alternate":"map of Lebanon",
+	"year":1955
+   },
+   {
+	"date":"11/25",
+	"text":"Suriname. Independence from the Netherlands in 1975.  https://en.wikipedia.org/wiki/Suriname #geography #IndependenceDay #Suriname",
+	"image":"Nov/suriname.jpg",
+	"alternate":"map of Suriname",
+	"year":1975
+   },
+   {
+	"date":"11/28",
+	"text":"Albania. Independence from the Ottoman Empire in 1912.  https://en.wikipedia.org/wiki/Albania #geography #FlagDay #Albania",
+	"image":"Nov/albania.jpg",
+	"alternate":"map of Albania",
+	"year":1912
+   },
+   {
+	"date":"11/28",
+	"text":"Chad. Independence from France in 1958.  https://en.wikipedia.org/wiki/Chad #geography #IndependenceDay #Chad",
+	"image":"Nov/chad.jpg",
+	"alternate":"map of Chad",
+	"year":1958
+   },
+   {
+	"date":"11/28",
+	"text":"Republic of the Congo. Independence from France in 1958.  https://en.wikipedia.org/wiki/Republic_of_the_Congo #geography #IndependenceDay #RepublicOfTheCongo",
+	"image":"Nov/congo.jpg",
+	"alternate":"map of Republic of the Congo",
+	"year":1958
+   },
+   {
+	"date":"11/28",
+	"text":"Mauritania. Independence from France in 1960.  https://en.wikipedia.org/wiki/Mauritania #geography #IndependenceDay #Mauritania",
+	"image":"Nov/mauritania.jpg",
+	"alternate":"map of Mauritania",
+	"year":1960
+   },
+   {
+	"date":"11/28",
+	"text":"Panama. Independence from Spain in 1821.  https://en.wikipedia.org/wiki/Panama #geography #IndependenceDay #panama",
+	"image":"Nov/panama.jpg",
+	"alternate":"map of Panama",
+	"year":1821
+   },
+   {
+	"date":"11/30",
+	"text":"Barbados. Independence from the United Kingdom in 1966.  https://en.wikipedia.org/wiki/Barbados #geography #IndependenceDay #Barbados",
+	"image":"Nov/barbados.jpg",
+	"alternate":"map of Barbados",
+	"year":1966
+   },
+   {
+	"date":"11/30",
+	"text":"Yemen. Independence from the United Kingdom in 1967.  https://en.wikipedia.org/wiki/Yemen #geography #IndependenceDay #Yemen",
+	"image":"Nov/yemen.jpg",
+	"alternate":"map of Yemen",
+	"year":1967
+   },    
+
+   {
+	"date":"12/1",
+	"text":"Central African Republic. Independence from the France in 1958.  https://en.wikipedia.org/wiki/Central_African_Republic #geography #NationalDay #CentralAfricanRepublic",
+	"image":"Dec/CAR.jpg",
+	"alternate":"map of Central African Republic",
+	"year":1958
+   },    
+   {
+	"date":"12/1",
+	"text":"Portugal. Independence from the Spain in 1640.  https://en.wikipedia.org/wiki/Portugal #geography #IndependenceDay #Portugal",
+	"image":"Dec/portugal.jpg",
+	"alternate":"map of Portugal",
+	"year":1640
+   },    
+   {
+	"date":"12/2",
+	"text":"United Arab Emirates. Independence from the United Kingdom in 1971.  https://en.wikipedia.org/wiki/United_Arab_Emirates #geography #NationalDay #UAE",
+	"image":"Dec/UAE.jpg",
+	"alternate":"map of United Arab Emirates",
+	"year":1971
+   },    
+   {
+	"date":"12/6",
+	"text":"Finland. Independence from Russia in 1917.  https://en.wikipedia.org/wiki/Finland #geography #IndependenceDay #Finland",
+	"image":"Dec/finland.jpg",
+	"alternate":"map of Finland",
+	"year":1917
+   },     
+   {
+	"date":"12/9",
+	"text":"Tanzania. Independence from the United Kingdom in 1961. Independence as #Tanganyka https://en.wikipedia.org/wiki/Tanzania #geography #IndependenceDay #Tanzania",
+	"image":"Dec/tanzania.jpg",
+	"alternate":"map of Tanzania",
+	"year":1961
+   },
+   {
+	"date":"12/11",
+	"text":"Burkina Faso. Independence from France in 1958.  https://en.wikipedia.org/wiki/Burkina_Faso #geography #IndependenceDay #Burkina_Faso",
+	"image":"Dec/b_faso.jpg",
+	"alternate":"map of Burkina Faso",
+	"year":1958
+   },
+   {
+	"date":"12/11",
+	"text":"South Africa. Independence from the United Kingdom in 1931.  https://en.wikipedia.org/wiki/South_Africa #geography #IndependenceDay #South_Africa",
+	"image":"Dec/s_africa.jpg",
+	"alternate":"map of South Africa",
+	"year":1931
+   },
+   {
+	"date":"12/12",
+	"text":"Kenya. Independence from the United Kingdom in 1963.  https://en.wikipedia.org/wiki/Kenya #geography #JamhuriDay #Kenya",
+	"image":"Dec/kenya.jpg",
+	"alternate":"map of Kenya",
+	"year":1963
+   },
+   {
+	"date":"12/16",
+	"text":"Bahrain. Independence from the United Kingdom in 1971. Ascension of Isa bin Salman Al Khalifa to the throne https://en.wikipedia.org/wiki/Bahrain #geography #IndependenceDay #Bahrain",
+	"image":"Dec/bahrain.jpg",
+	"alternate":"map of Bahrain",
+	"year":1971
+   },
+   {
+	"date":"12/16",
+	"text":"Kazakhstan. Independence from Russia in 1991.  https://en.wikipedia.org/wiki/Kazakhstan #geography #IndependenceDay #Kazakhstan",
+	"image":"Dec/kazakhstan.jpg",
+	"alternate":"map of Kazakhstan",
+	"year":1991
+   },
+   {
+	"date":"12/18",
+	"text":"Qatar. Independence from the Ottoman Empire in 1878.  https://en.wikipedia.org/wiki/Qatar #geography #NationalDay #Qatar",
+	"image":"Dec/qatar.jpg",
+	"alternate":"map of Qatar",
+	"year":1978
+   },
+   {
+	"date":"12/24",
+	"text":"Libya. Independence from Italy/France/England in 1951.  https://en.wikipedia.org/wiki/Libya #geography #IndependenceDay #Libya",
+	"image":"Dec/libya.jpg",
+	"alternate":"map of Libya",
+	"year":1951
+   },
+   {
+	"date":"12/26",
+	"text":"Slovenia. Independence from Yugoslavia in 1991.  https://en.wikipedia.org/wiki/Slovenia#geography #IndependenceAndUnityDay #Slovenia",
+	"image":"Dec/slovenia.jpg",
+	"alternate":"map of Slovenia",
+	"year":1991
+   },
+   {
+	"date":"12/29",
+	"text":"Mongolia. Independence from Great Qing (China, Qing dynasty) in 1911.  https://en.wikipedia.org/wiki/Mongolia #geography #IndependenceDay #Mongolia",
+	"image":"Dec/mongolia.jpg",
+	"alternate":"map of Mongolia",
+	"year":1911
+   },        
+  {
+    "date": "31/5",
+    "text": "https://en.wikipedia.org/wiki/List_of_national_independence_days",
+    "image": "none"
+  }
+  ]
+}
